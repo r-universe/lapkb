@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/lapkb/lapkb.r-universe.dev
 	branch = HEAD
+[submodule "Pmetrics"]
+	path = Pmetrics
+	url = https://github.com/LAPKB/pmetrics_rust
