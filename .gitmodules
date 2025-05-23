@@ -5,3 +5,7 @@
 [submodule "Pmetrics"]
 	path = Pmetrics
 	url = https://github.com/LAPKB/pmetrics_rust
+[submodule "PmetricsData"]
+	path = PmetricsData
+	url = https://github.com/LAPKB/PmetricsData
+	registered = false
