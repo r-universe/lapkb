@@ -5,4 +5,4 @@
 [submodule "Pmetrics"]
 	path = Pmetrics
 	url = https://github.com/LAPKB/pmetrics_rust
-	branch = v.3.0.3
+	branch = v.3.0.4
