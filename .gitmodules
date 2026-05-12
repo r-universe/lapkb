@@ -6,3 +6,15 @@
 	path = Pmetrics
 	url = https://github.com/LAPKB/Pmetrics
 	branch = v3.1.3
+[submodule "PmetricsLitSim"]
+	path = PmetricsLitSim
+	url = https://github.com/LAPKB/PmetricsLitSim
+	branch = *release
+[submodule "PmetricsModelLib"]
+	path = PmetricsModelLib
+	url = https://github.com/LAPKB/PmetricsModelLib
+	branch = *release
+[submodule "PmetricsPlot"]
+	path = PmetricsPlot
+	url = https://github.com/LAPKB/PmetricsPlot
+	branch = *release
