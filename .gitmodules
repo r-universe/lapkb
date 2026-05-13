@@ -17,4 +17,4 @@
 [submodule "PmetricsPlot"]
 	path = PmetricsPlot
 	url = https://github.com/LAPKB/PmetricsPlot
-	branch = v0.0.2
+	branch = v0.0.3
