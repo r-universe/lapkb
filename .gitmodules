@@ -9,12 +9,12 @@
 [submodule "PmetricsLitSim"]
 	path = PmetricsLitSim
 	url = https://github.com/LAPKB/PmetricsLitSim
-	branch = v0.0.1
+	branch = v0.0.2
 [submodule "PmetricsModelLib"]
 	path = PmetricsModelLib
 	url = https://github.com/LAPKB/PmetricsModelLib
-	branch = v0.0.1
+	branch = v0.0.2
 [submodule "PmetricsPlot"]
 	path = PmetricsPlot
 	url = https://github.com/LAPKB/PmetricsPlot
-	branch = v0.0.1
+	branch = v0.0.2
