@@ -18,3 +18,7 @@
 	path = PmetricsPlot
 	url = https://github.com/LAPKB/PmetricsPlot
 	branch = v0.0.3
+[submodule "PmetricsReport"]
+	path = PmetricsReport
+	url = https://github.com/LAPKB/PmetricsReport
+	branch = *release

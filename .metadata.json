@@ -14,5 +14,9 @@
   {
     "package": "PmetricsModelLib",
     "releasetag": true
+  },
+  {
+    "package": "PmetricsReport",
+    "releasetag": true
   }
 ]
