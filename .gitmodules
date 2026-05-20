@@ -21,4 +21,4 @@
 [submodule "PmetricsReport"]
 	path = PmetricsReport
 	url = https://github.com/LAPKB/PmetricsReport
-	branch = *release
+	branch = v.0.0.1
