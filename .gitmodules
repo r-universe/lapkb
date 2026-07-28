@@ -5,7 +5,7 @@
 [submodule "Pmetrics"]
 	path = Pmetrics
 	url = https://github.com/LAPKB/Pmetrics
-	branch = v.3.2.0
+	branch = v3.2.1
 [submodule "PmetricsLitSim"]
 	path = PmetricsLitSim
 	url = https://github.com/LAPKB/PmetricsLitSim
