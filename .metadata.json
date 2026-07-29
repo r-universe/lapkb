@@ -18,5 +18,13 @@
   {
     "package": "PmetricsReports",
     "releasetag": true
+  },
+  {
+    "package": "PmetricsExplorer",
+    "releasetag": true
+  },
+  {
+    "package": "PmetricsWorld",
+    "releasetag": true
   }
 ]
