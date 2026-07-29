@@ -9,7 +9,7 @@
 [submodule "PmetricsExplorer"]
 	path = PmetricsExplorer
 	url = https://github.com/LAPKB/PmetricsExplorer
-	branch = *release
+	branch = v1.0.0
 [submodule "PmetricsLitSim"]
 	path = PmetricsLitSim
 	url = https://github.com/LAPKB/PmetricsLitSim
