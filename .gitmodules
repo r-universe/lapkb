@@ -5,7 +5,7 @@
 [submodule "Pmetrics"]
 	path = Pmetrics
 	url = https://github.com/LAPKB/Pmetrics
-	branch = v3.2.1
+	branch = v.3.2.2
 [submodule "PmetricsExplorer"]
 	path = PmetricsExplorer
 	url = https://github.com/LAPKB/PmetricsExplorer
